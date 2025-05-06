@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/constants.ts","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/words.ts","./src/components/game-modal.tsx","./src/components/hangman-figure.tsx","./src/components/keyboard.tsx","./src/components/word-display.tsx","./src/hooks/use-hangman.ts"],"version":"5.6.3"}
