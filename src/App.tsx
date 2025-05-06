@@ -23,7 +23,7 @@ function App() {
 
       <div className="text-center text-gray-100">
         <p className="mb-2 text-xl sm:text-2xl">
-          Vidas restantes: <span className="font-bold">6</span>
+          Vidas restantes: <span className="font-bold">{remainingGuesses}</span>
         </p>
 
         <p className="text-lg">Dica: {dica}</p>
